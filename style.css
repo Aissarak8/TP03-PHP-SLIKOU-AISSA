@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 900px;
+    margin: 20px auto;
+}
+
+nav {
+    margin: 15px 0;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input,
+select,
+button {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 6px;
+}
+
+.echec {
+    color: red;
+}
